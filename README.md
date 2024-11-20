@@ -1,7 +1,7 @@
 
 # Windows Terminal Bash Configuration
 
-This repository contains a custom `.bashrc` script tailored for Windows Terminal users. It includes helpful functions, aliases, and configurations to streamline development workflows, especially for Docker, AWS, and general command-line usage.
+For all Windows Terminal lovers, this repository contains a custom `.bashrc` script tailored for Windows Terminal users. Which runs when the terminal gets initiated It includes helpful functions, aliases, and configurations to streamline development workflows, especially for Docker, AWS, and general command-line usage.
 
 ---
 
