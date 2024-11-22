@@ -26,6 +26,10 @@ alias start_docker='check_and_start_docker'
 alias startDocker='check_and_start_docker'
 alias startdocker='check_and_start_docker'
 
+alias stopdocker='wsl --shutdown'
+alias stopDocker='wsl --shutdown'
+alias stop_docker='wsl --shutdown'
+
 # Navigation aliases
 alias cdd='cd D://projects'
 
